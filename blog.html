@@ -1,24 +1,32 @@
 ---
-layout: page
+layout: default
 title: Blog
 ---
 
-<!-- Post -->
-{% assign author = site.authors[page.author] %}
+{% include header.html %}
 
-<div class="col-sm-8">
-    <div class="mainheading">
-
-        <!-- Post Categories -->
-        <div class="after-post-tags">
-            <ul class="tags">
-                {% assign sortedCategories = page.categories | sort %}
-                {% for category in sortedCategories %}
-                <li>
-                    <a href="{{ site.baseurl }}/category/{{ category | slugify }}/">{{
-                        category }}</a>
-                </li>
-                {% endfor %}
-            </ul>
+<section id="blog" class="blog-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 text-center">
+                <h2 class="section-heading">Blog</h2>
+                <hr class="primary">
+                <p>Welcome to our blog! Here, you'll find insightful articles, tips, and more.</p>
+            </div>
         </div>
-        <!-- End Categories -->
+        <div class="row">
+            {% for post in site.posts %}
+            <div class="col-md-4 col-sm-6 blog-item">
+                <div class="blog-thumb">
+                    <!-- Add image here if you want -->
+                </div>
+                <h3>{{ post.title }}</h3>
+                <p>{{ post.excerpt }}</p>
+                <a href="{{ post.url }}" class="btn btn-primary">Read More</a>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+
+{% include footer.html %}
