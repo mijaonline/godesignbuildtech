@@ -1,7 +1,7 @@
 ---
 layout: post
-cover: assets/images/1.jpg
-title: Ubuntu in old PC
+cover: assets/images/thinking-something.jpg
+title: Funny You Should Ask How to Make a Website
 date: 2023-08-22 12:00:00 +0545
 categories: blog
 author: michael
