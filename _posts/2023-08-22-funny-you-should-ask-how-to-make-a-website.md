@@ -49,8 +49,8 @@ Congratulations, you've completed the 100% Not Boring Guide to Setting Up Your W
 
 So, are you ready to embark on this hilarious and informative journey? Let's dive in and make your website dreams a reality, one laugh at a time!
 
-## Affiliate Links
+## Buy this in Amazon
 
-- [My Amazon Affiliate Link](https://amzn.to/3QK9wZ2)
-- My Amazon Affiliate Link with Image:
+- [Click Here](https://amzn.to/3QK9wZ2)
+- Click Here:
   <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=godesignbuild-20&language=en_US&marketplace=amazon&region=US&placement=B094VLZSYX&asins=B094VLZSYX&linkId=26bbd0e2a6d1863cf7e516401307af62&show_border=true&link_opens_in_new_window=true"></iframe>
