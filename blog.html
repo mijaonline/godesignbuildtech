@@ -3,23 +3,11 @@ layout: page
 title: Blog
 ---
 
-{% include header.html %}
 
-<section id="blog" class="blog-section">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 text-center">
-                <h2 class="section-heading">Blog</h2>
-                <hr class="primary">
-                <p>Welcome to our blog! Here, you'll find insightful articles, tips, and more.</p>
-            </div>
-        </div>
         <div class="row">
             {% for post in site.posts %}
             <div class="col-md-4 col-sm-6 blog-item">
-                <div class="blog-thumb">
-                    <!-- Add image here if you want -->
-                </div>
+            
                 <h3>{{ post.title }}</h3>
                 <p>{{ post.excerpt }}</p>
                 <a href="{{ post.url }}" class="btn btn-primary">Read More</a>
@@ -29,4 +17,3 @@ title: Blog
     </div>
 </section>
 
-{% include footer.html %}
