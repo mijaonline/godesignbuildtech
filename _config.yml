@@ -1,5 +1,5 @@
 # Site
-name: Michael Mondala
+name: godesingbuild
 description: Just another website
 meta_description: Just another website
 logo: /assets/images/logo.png
@@ -13,12 +13,12 @@ sharethis:
 
 # Authors
 authors:
-  Michael:
-    name: Michael
+  michael:
+    name: michael
     display_name: Michael
     image: /assets/images/michael.jpg
     email: hello@john.doe
-    web: http://example.com
+    web: https://godesignbuild.tech
     twitter:
     description: Hi, I am Michael.
 
