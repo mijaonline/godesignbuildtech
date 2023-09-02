@@ -1,11 +1,11 @@
 ---
 layout: post
 title: The Importance of Having a Website for Your Business
+cover: /assets/images/ecommerce.jpg
 date: 2023-08-26 10:00:00 +0000
 categories: [Featured, Business, Marketing, Web Development]
 tags: [website, online presence, marketing]
-author: Michael Mondala
-cover: /assets/images/ecommerce.jpg 
+author: Michael Mondala 
 featured: true
 ---
 
