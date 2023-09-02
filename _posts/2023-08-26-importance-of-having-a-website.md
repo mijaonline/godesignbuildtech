@@ -3,7 +3,7 @@ layout: post
 cover: /assets/images/ecommerce.jpg
 title: The Importance of Having a Website for Your Business
 date: 2023-08-26 10:00:00 +0000
-categories: [Featured, Business, Marketing, Web Development]
+categories: blog
 tags: [website, online presence, marketing]
 author: michael
 featured: true
