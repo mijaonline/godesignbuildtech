@@ -3,10 +3,11 @@ layout: post
 cover: /assets/images/ecommerce.jpg
 title: The Importance of Having a Website for Your Business
 date: 2023-08-26 10:00:00 +0000
-categories: blog
+categories: [Featured, Business, Marketing, Web Development]
 tags: [website, online presence, marketing]
 author: michael
 featured: true
+summary: Start building your online presence today and reap the benefits of a strong digital presence for your business
 ---
 
 In today's digital age, having a website for your business is not just an option; it's a necessity. Whether you're running a small local shop or a multinational corporation, an online presence can significantly impact your success. Here are several reasons why having a website is crucial for your business:
