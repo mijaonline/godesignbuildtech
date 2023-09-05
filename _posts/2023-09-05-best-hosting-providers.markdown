@@ -3,7 +3,7 @@ layout: post
 cover: assets/images/webhosting.jpg
 title: Best Hosting Providers 2023
 date: 2023-09-05 12:00:00 +0000
-categories: blog
+categories: featured
 author: michael
 featured: true
 summary: some of the top hosting companies
