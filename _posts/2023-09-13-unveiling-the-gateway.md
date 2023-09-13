@@ -6,7 +6,7 @@ date: 2023-09-13 12:00:00 +0000
 categories: blog
 author: michael
 featured: true
-summary: Explore the features and performance of the Gateway 14.1" Ultra Slim Notebook, the most affordable Core i5 laptop available on Amazon.
+summary: Explore the features and performance of the Gateway 14.1" Ultra Slim Notebook, the most affordable Core i5 laptop available on Amazon
 ---
 
 # Unveiling the Gateway 14.1" Ultra Slim Notebook: A Closer Look at the Cheapest Core i5 Laptop on Amazon
