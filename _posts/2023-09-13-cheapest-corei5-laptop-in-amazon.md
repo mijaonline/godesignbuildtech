@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 cover: /assets/images/COREi5.jpg
 title: Unveiling the Gateway 14.1" Ultra Slim Notebook: A Closer Look at the Cheapest Core i5 Laptop on Amazon
 date: 2023-09-13 12:00:00 +0545
