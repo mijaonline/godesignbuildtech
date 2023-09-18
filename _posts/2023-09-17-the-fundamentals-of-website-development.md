@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: assets/images/html.png
+cover: assets/images/html.jpg
 The Fundamentals of Website Development: Building the Digital World
 date: 2023-09-17 08:00:00 +0545
 categories: [Web Development, Coding Basics, HTML, CSS, JavaScript, Website Design, Beginner's Guide, Coding Fundamentals]
