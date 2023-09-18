@@ -2,13 +2,13 @@
 layout: post
 cover: assets/images/html.jpg
 The Fundamentals of Website Development: Building the Digital World
-date: 2023-09-17 08:00:00 +0545
-categories: [Web Development, Coding Basics, HTML, CSS, JavaScript, Website Design, Beginner's Guide, Coding Fundamentals]
+date: 2023-09-17 12:00:00 +0545
+categories: [Web Development, Coding Basics, HTML, CSS, JavaScript, Beginner's Guide, Coding Fundamentals]
 author: michael
 featured: true
 summary: Master HTML and CSS fundamentals to create beautiful websites.
 The best book on the market for modern web design fundamentals for 2023 and beyond!
-AMAZON BEST SELLER
+*AMAZON BEST SELLER*
 ---
 
 # The Fundamentals of Website Development: Building the Digital World
@@ -19,7 +19,7 @@ In the fast-paced digital age, websites have become an essential part of our liv
 
 HTML, or HyperText Markup Language, is the backbone of every web page. It provides the structure and content of a webpage. Think of it as the blueprint for your site. With HTML, you define headings, paragraphs, images, links, and more. Here's a snippet of what HTML looks like:
 
-html
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -32,7 +32,7 @@ html
     <a href="https://www.example.com">Visit Example.com</a>
 </body>
 </html>
-
+```
 
 HTML tags like `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`, `<img>`, and `<a>` define the structure and content of the page.
 
@@ -40,7 +40,7 @@ HTML tags like `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`, `<img>`, and `<a>` d
 
 While HTML provides the structure, Cascading Style Sheets (CSS) add the style. CSS lets you control the layout, colors, fonts, and overall visual appeal of your website. Here's a glimpse of CSS in action:
 
-css
+```css
 /* Define the style for headings */
 h1 {
     color: #333;
@@ -64,6 +64,7 @@ a {
 body {
     background-color: #f0f0f0;
 }
+```
 
 CSS selectors, like `h1`, `p`, `a`, and `body`, let you target specific elements and apply styles to them.
 
@@ -71,12 +72,13 @@ CSS selectors, like `h1`, `p`, `a`, and `body`, let you target specific elements
 
 JavaScript is the programming language of the web. It breathes life into your website by enabling interactivity and dynamic behavior. With JavaScript, you can create forms, handle user input, build animations, and much more. Here's a simple example of JavaScript in action:
 
-javascript
+```javascript
 // Get the current date
 let currentDate = new Date();
 
 // Display a greeting message
 document.getElementById('greeting').innerHTML = `Hello, it's ${currentDate.toDateString()}!`;
+```
 
 In this example, JavaScript fetches the current date and displays it on the webpage.
 
