@@ -2,8 +2,8 @@
 layout: post
 cover: assets/images/html.jpg
 title: The Fundamentals of Website Development: Building the Digital World
-date: 2023-09-17 12:00:00 +0545
-categories: [Web Development, Coding Basics, HTML, CSS, JavaScript, Beginner's Guide, Coding Fundamentals]
+date: 2023-09-19 12:00:00 +0545
+categories: [featured, Web Development, Coding Basics, HTML, CSS, JavaScript, Beginner's Guide, Coding Fundamentals]
 author: michael
 featured: true
 summary: Master HTML and CSS fundamentals to create beautiful websites.
