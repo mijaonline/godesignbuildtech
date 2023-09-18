@@ -1,14 +1,14 @@
 ---
 layout: post
-cover: assets/images/htmlcss.jpg
+cover: assets/images/programming-background-collage.jpg
 The Fundamentals of Website Development: Building the Digital World
 date: 2023-09-17 12:00:00 +0545
-categories: [Web Development, Coding Basics, HTML, CSS, JavaScript, Website Design, Beginner's Guide, Coding Fundamentals, Web Development Essentials]
+categories: [Web Development, Coding Basics, HTML, CSS, JavaScript, Website Design, Beginner's Guide, Coding Fundamentals]
 author: michael
 featured: true
 summary: Master HTML and CSS fundamentals to create beautiful websites.
 The best book on the market for modern web design fundamentals for 2023 and beyond!
-*AMAZON BEST SELLER*
+AMAZON BEST SELLER
 ---
 
 # The Fundamentals of Website Development: Building the Digital World
