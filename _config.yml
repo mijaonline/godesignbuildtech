@@ -3,7 +3,7 @@ name: godesingbuild
 description: Just another website
 meta_description: Just another website
 logo: /assets/images/logo.png
-favicon: /assets/images/favicon.ico
+favicon: assets/images/gdbico.ico
 paginate: 6
 baseurl: "/"
 email: 'hello@john.doe'
