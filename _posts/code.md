@@ -3,7 +3,7 @@ layout: page
 title: Learn to Code
 ---
 
-# Tutorial Page
+# Learn to Code
 
 ## HTML Section
 
@@ -137,5 +137,3 @@ var name = prompt("What is your name?");
 Create a JavaScript function that prompts the user for their name and displays a personalized greeting using an alert box.
 
 ---
-
-Feel free to explore each section and complete the exercises to enhance your understanding of HTML, CSS, and JavaScript. Happy learning!
