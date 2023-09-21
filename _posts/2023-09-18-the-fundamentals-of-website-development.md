@@ -104,3 +104,8 @@ Please note that this is an affiliate link, and if you make a purchase through i
 Understanding the fundamentals of website development is like unlocking the gateway to the digital world. Whether you're building a personal blog, an e-commerce site, or a web application, these foundational skills will be your guiding light. Stay curious, keep learning, and soon you'll be crafting web experiences that captivate and inspire.
 
 Ready to take your web development skills to the next level? Stay tuned for more in-depth articles and tutorials right here at godesignbuild.tech. Happy coding!
+
+<div class="sidebar-section">
+    <h5><span>Newsletter</span></h5>
+    {% include newsletter.html %}
+  </div>
