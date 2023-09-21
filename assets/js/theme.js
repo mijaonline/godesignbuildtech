@@ -147,6 +147,24 @@ jQuery(document).ready(function($){
     if (jumptopageof.length) {
         $('body,html').animate({ scrollTop: $(jumptopageof).offset().top  - 0 }, 800);
     }
+    // JavaScript to handle accordion functionality
+const tabs = document.querySelectorAll('.tab');
+
+tabs.forEach((tab) => {
+  const button = tab.querySelector('.accordion-btn');
+  const content = tab.querySelector('.tab-content');
+
+  button.addEventListener('click', () => {
+    tabs.forEach((t) => {
+      t.classList.remove('active');
+      t.querySelector('.tab-content').style.display = 'none';
+    });
+
+    tab.classList.toggle('active');
+    content.style.display = tab.classList.contains('active') ? 'block' : 'none';
+  });
+});
+
 
 
 
