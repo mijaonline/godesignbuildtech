@@ -1,11 +1,11 @@
 ---
 layout: post
-cover: assets/images/sarahstoryline.jpg
 title: Sarah's Inspiring Journey with GoDesignBuild
-date: 2023-09-28 12:00:00 +0545
-categories: blog
 author: michael
+categories: blog
+image: assets/images/sarahstoryline.jpg
 featured: true
+date: 2023-09-28 12:00:00 +0000
 ---
 
 # Sarah's Inspiring Journey with GoDesignBuild 🌟
