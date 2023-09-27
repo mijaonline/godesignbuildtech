@@ -6,7 +6,6 @@ date: 2023-09-28 12:00:00 +0545
 categories: blog
 author: michael
 featured: true
-summary: Sarah's success story serves as a testament to what's possible with determination and the right tools
 ---
 
 # Sarah's Inspiring Journey with GoDesignBuild 🌟
