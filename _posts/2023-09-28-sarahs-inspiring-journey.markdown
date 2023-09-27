@@ -24,5 +24,5 @@ The result? An incredible website that not only showcased her talents but also a
 
 Today, Sarah's success story serves as a testament to what's possible with determination and the right tools. Her website continues to inspire others to pursue their passions and turn their dreams into reality.
 
-###So, are you ready to get inspired, just like Sarah? Start your journey with GoDesignBuild today and watch your ideas come to life. 👏💻✨
+###So, are you ready to get inspired, just like Sarah? Start your journey with GoDesignBuild today and watch your ideas come to life.
 #CustomerSuccess #Inspiration #WebDesign #GoDesignBuild
