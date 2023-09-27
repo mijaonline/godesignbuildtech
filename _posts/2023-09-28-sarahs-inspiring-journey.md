@@ -2,13 +2,13 @@
 layout: post
 title: Sarah's Inspiring Journey with GoDesignBuild
 author: michael
-categories: blog
+categories: [ blog ]
 image: assets/images/sarahstoryline.jpg
 featured: true
 date: 2023-09-28 12:00:00 +0000
 ---
 
-# Sarah's Inspiring Journey with GoDesignBuild 🌟
+# Sarah's Inspiring Journey with GoDesignBuild
 
 Meet Sarah, a driven and creative individual who had a dream of bringing her ideas to life through a stunning website. Like many of us, she had a passion for design and a vision that needed a platform to shine.
 
