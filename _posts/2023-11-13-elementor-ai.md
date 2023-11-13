@@ -9,8 +9,6 @@ author: michael
 featured: true
 ---
 
-# Elementor AI: Your New Way of Creating WordPress Websites
-
 Available as a free trial with any Elementor website. [Get Elementor AI](#)
 
 **Elementor AI** is natively integrated within the Editor to generate original text, code, and images. Say goodbye to time-consuming tasks and welcome a new era of streamlined workflows.
