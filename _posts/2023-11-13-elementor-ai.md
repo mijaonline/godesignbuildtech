@@ -9,7 +9,7 @@ author: michael
 featured: true
 ---
 
-Available as a free trial with any Elementor website. [Get Elementor AI](#)
+Available as a free trial with any Elementor website. [Get Elementor AI](https://be.elementor.com/visit/?bta=218314&nci=5550)
 
 **Elementor AI** is natively integrated within the Editor to generate original text, code, and images. Say goodbye to time-consuming tasks and welcome a new era of streamlined workflows.
 
